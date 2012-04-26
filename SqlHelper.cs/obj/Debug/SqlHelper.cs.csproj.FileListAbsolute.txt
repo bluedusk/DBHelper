@@ -1,0 +1,5 @@
+E:\Workspace\DBHelperDemo\SqlHelper.cs\bin\Debug\SqlHelper.cs.dll
+E:\Workspace\DBHelperDemo\SqlHelper.cs\bin\Debug\SqlHelper.cs.pdb
+E:\Workspace\DBHelperDemo\SqlHelper.cs\obj\Debug\ResolveAssemblyReference.cache
+E:\Workspace\DBHelperDemo\SqlHelper.cs\obj\Debug\SqlHelper.cs.dll
+E:\Workspace\DBHelperDemo\SqlHelper.cs\obj\Debug\SqlHelper.cs.pdb

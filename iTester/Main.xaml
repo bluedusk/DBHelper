@@ -1,0 +1,16 @@
+﻿<Window x:Class="iTester.Main"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="iTester" Height="489" Width="659" Background="AliceBlue">
+    <Grid VerticalAlignment="Top" Height="417">
+        <Button Height="23" HorizontalAlignment="Right" Margin="0,36,142,0" Name="button1" VerticalAlignment="Top" Width="43" Click="button1_Click">Go</Button>
+        <RichTextBox Margin="83,36,199,0" Name="richTextBox1" Height="100" VerticalAlignment="Top" BorderBrush="PeachPuff" Background="White" BorderThickness="3" AcceptsTab="False" IsReadOnly="False">
+        </RichTextBox>
+        <Label Height="23" HorizontalAlignment="Left" Margin="83,14,0,0" Name="label1" VerticalAlignment="Top" Width="120">Sql</Label>
+        <Label HorizontalAlignment="Left" Margin="83,144,0,0" Name="label2" Width="120" Height="22" VerticalAlignment="Top">Output</Label>
+        <TextBox Height="23" HorizontalAlignment="Right" Margin="0,36,81,0" Name="textBox1" VerticalAlignment="Top" Width="42">1000</TextBox>
+        <CheckBox Height="23" HorizontalAlignment="Right" Margin="0,40.861,20,0" Name="checkBox1" VerticalAlignment="Top" Width="54" IsChecked="True">repeat</CheckBox>
+        <RichTextBox AcceptsTab="False" Background="White" BorderBrush="PeachPuff" BorderThickness="3" IsReadOnly="False" Margin="83,166,199,151" Name="richTextBox2">
+        </RichTextBox>
+    </Grid>
+</Window>

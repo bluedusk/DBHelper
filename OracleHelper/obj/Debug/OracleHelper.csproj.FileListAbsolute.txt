@@ -1,0 +1,5 @@
+E:\Workspace\DBHelperDemo\OracleHelper\bin\Debug\OracleHelper.dll
+E:\Workspace\DBHelperDemo\OracleHelper\bin\Debug\OracleHelper.pdb
+E:\Workspace\DBHelperDemo\OracleHelper\obj\Debug\ResolveAssemblyReference.cache
+E:\Workspace\DBHelperDemo\OracleHelper\obj\Debug\OracleHelper.dll
+E:\Workspace\DBHelperDemo\OracleHelper\obj\Debug\OracleHelper.pdb

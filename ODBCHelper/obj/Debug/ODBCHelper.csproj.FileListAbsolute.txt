@@ -1,0 +1,7 @@
+E:\Workspace\DBHelperDemo\ODBCHelper\bin\Debug\ODBCHelper.dll
+E:\Workspace\DBHelperDemo\ODBCHelper\bin\Debug\ODBCHelper.pdb
+E:\Workspace\DBHelperDemo\bin\ODBCHelper.dll
+E:\Workspace\DBHelperDemo\bin\ODBCHelper.pdb
+E:\Workspace\DBHelperDemo\ODBCHelper\obj\Debug\ResolveAssemblyReference.cache
+E:\Workspace\DBHelperDemo\ODBCHelper\obj\Debug\ODBCHelper.dll
+E:\Workspace\DBHelperDemo\ODBCHelper\obj\Debug\ODBCHelper.pdb

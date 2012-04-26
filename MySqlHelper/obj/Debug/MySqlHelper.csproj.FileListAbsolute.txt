@@ -1,0 +1,10 @@
+E:\Workspace\DBHelperDemo\MySqlHelper\bin\Debug\MySqlHelper.dll
+E:\Workspace\DBHelperDemo\MySqlHelper\bin\Debug\MySqlHelper.pdb
+E:\Workspace\DBHelperDemo\MySqlHelper\bin\Debug\DBHelper.dll
+E:\Workspace\DBHelperDemo\MySqlHelper\bin\Debug\Sybase.Data.AseClient.dll
+E:\Workspace\DBHelperDemo\MySqlHelper\bin\Debug\DBHelper.pdb
+E:\Workspace\DBHelperDemo\bin\MySqlHelper.dll
+E:\Workspace\DBHelperDemo\bin\MySqlHelper.pdb
+E:\Workspace\DBHelperDemo\MySqlHelper\obj\Debug\ResolveAssemblyReference.cache
+E:\Workspace\DBHelperDemo\MySqlHelper\obj\Debug\MySqlHelper.dll
+E:\Workspace\DBHelperDemo\MySqlHelper\obj\Debug\MySqlHelper.pdb

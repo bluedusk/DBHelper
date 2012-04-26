@@ -1,0 +1,5 @@
+E:\Workspace\DBHelperDemo\SqliteHelper\bin\Debug\SqliteHelper.dll
+E:\Workspace\DBHelperDemo\SqliteHelper\bin\Debug\SqliteHelper.pdb
+E:\Workspace\DBHelperDemo\SqliteHelper\obj\Debug\ResolveAssemblyReference.cache
+E:\Workspace\DBHelperDemo\SqliteHelper\obj\Debug\SqliteHelper.dll
+E:\Workspace\DBHelperDemo\SqliteHelper\obj\Debug\SqliteHelper.pdb

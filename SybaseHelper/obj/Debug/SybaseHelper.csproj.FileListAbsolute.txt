@@ -1,0 +1,10 @@
+E:\Workspace\DBHelperDemo\SybaseHelper\bin\Debug\SybaseHelper.dll
+E:\Workspace\DBHelperDemo\SybaseHelper\bin\Debug\SybaseHelper.pdb
+E:\Workspace\DBHelperDemo\SybaseHelper\bin\Debug\DBHelper.dll
+E:\Workspace\DBHelperDemo\SybaseHelper\bin\Debug\Sybase.Data.AseClient.dll
+E:\Workspace\DBHelperDemo\SybaseHelper\bin\Debug\DBHelper.pdb
+E:\Workspace\DBHelperDemo\bin\SybaseHelper.dll
+E:\Workspace\DBHelperDemo\bin\SybaseHelper.pdb
+E:\Workspace\DBHelperDemo\SybaseHelper\obj\Debug\ResolveAssemblyReference.cache
+E:\Workspace\DBHelperDemo\SybaseHelper\obj\Debug\SybaseHelper.dll
+E:\Workspace\DBHelperDemo\SybaseHelper\obj\Debug\SybaseHelper.pdb

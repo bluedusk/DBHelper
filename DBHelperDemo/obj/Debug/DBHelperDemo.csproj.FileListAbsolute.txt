@@ -1,0 +1,15 @@
+E:\Workspace\DBHelperDemo\DBHelperDemo\obj\Debug\ResolveAssemblyReference.cache
+E:\Workspace\DBHelperDemo\DBHelperDemo\obj\Debug\DBHelperDemo.Form1.resources
+E:\Workspace\DBHelperDemo\DBHelperDemo\obj\Debug\DBHelperDemo.Properties.Resources.resources
+E:\Workspace\DBHelperDemo\DBHelperDemo\obj\Debug\DBHelperDemo.csproj.GenerateResource.Cache
+E:\Workspace\DBHelperDemo\DBHelperDemo\bin\Debug\DBHelperDemo.exe.config
+E:\Workspace\DBHelperDemo\DBHelperDemo\bin\Debug\DBHelperDemo.exe
+E:\Workspace\DBHelperDemo\DBHelperDemo\bin\Debug\DBHelperDemo.pdb
+E:\Workspace\DBHelperDemo\DBHelperDemo\bin\Debug\DBHelper.dll
+E:\Workspace\DBHelperDemo\DBHelperDemo\bin\Debug\MySql.Data.dll
+E:\Workspace\DBHelperDemo\DBHelperDemo\bin\Debug\Sybase.Data.AseClient.dll
+E:\Workspace\DBHelperDemo\DBHelperDemo\obj\Debug\DBHelperDemo.exe
+E:\Workspace\DBHelperDemo\DBHelperDemo\obj\Debug\DBHelperDemo.pdb
+E:\Workspace\DBHelperDemo\bin\DBHelperDemo.exe.config
+E:\Workspace\DBHelperDemo\bin\DBHelperDemo.exe
+E:\Workspace\DBHelperDemo\bin\DBHelperDemo.pdb
