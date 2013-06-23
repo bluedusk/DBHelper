@@ -27,7 +27,7 @@ namespace DBHelperDemo
         private void Bind2()//静态调用，读取app.config
         {
 
-            string sql = "select * from ABST_User";
+            string sql = "select * from ABST_User ";
             DataTable dt = DBHelper.ExecuteQuery(sql);
             dataGridView1.DataSource = dt;
 
